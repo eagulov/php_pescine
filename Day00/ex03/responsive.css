@@ -1,0 +1,69 @@
+.hidden{
+    border: none;
+}
+.nbr_weight {
+    margin-right: 2px;
+      text-align: right;
+}
+.nbr_bottom {
+    margin-left: 2px;
+    text-align: left;
+}
+p {
+    font-size: 1vw;
+    margin: 0;
+}
+.color_0 {
+    background-color: #f166dfe7;
+}
+.color_1 {
+    background-color: #dcabf5e3;
+}
+.color_2 {
+    background-color: #bd60e6ea;
+}
+.color_3 {
+    background-color: #28a0cfe7;
+}
+.color_4 {
+    background-color: #df4b49e8;
+}
+.color_5 {
+    background-color: #1bd3b7e7
+}
+.color_6 {
+    background-color: #80c53be3;
+}
+.color_7 {
+    background-color: #e9cd2fea;
+}
+.color_8 {
+    background-color: #db792dea;
+}
+.color_9 {
+    background-color: #2f9ea0dc;
+}
+td {
+    width: 5%;
+    height: 60px;
+    border: 1px solid rgb(255, 255, 255);
+}
+.hed {
+    color: #ffffff;
+    text-align: center;
+}
+h1 {
+    font-size: 2vw; 
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+table {
+    width: 100%;
+}
+body {
+    width: 100%;
+    background-image: url(https://searchengineland.com/figz/wp-content/seloads/2016/03/periodic-table-elements-chemistry-ss-1920.jpg);
+    background-size: 150%;
+    background-repeat: no-repeat;
+}
